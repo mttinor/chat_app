@@ -2,8 +2,8 @@
 
 # dependencies
 /node_modules
-public/node_modules
-server/node_modules
+/public/node_modules
+/server/node_modules
 /.pnp
 .pnp.js
 .yarn/install-state.gz
